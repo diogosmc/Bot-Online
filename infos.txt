@@ -22,7 +22,7 @@ rp: practice
 paridade: EURUSD
 
 [ Digite o Valor da Entrada ] # 2, 4.5 - Utilize o Ponto ao invês da Virgula
-valor: 5
+valor: 1
 
 [ Digite a Direção da Vela ] # Call ou PUT - Ajuda: |Call = Verde| e |Put = Vermelho|
 direcao: put
@@ -34,7 +34,7 @@ timef: 5
 gales: gale1
 
 [ Digite a Hora da Entrada ] # 02:55:00, 10:34:58
-tempo: 20:28:10
+tempo: 11:54:58
 
 
 
