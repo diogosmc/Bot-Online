@@ -1,0 +1,40 @@
+[ BEM VINDO AO INFERNO ]
+Siga as Regras abaixo para não dar ERRO !!!
+
+Escreva o nome das paradas depois do Espaço
+Depois do jogo da velha vulgo Hashtag é o Exemplo
+
+!!! NÃO MUDE UMA LETRA DESSE BLOCO DE NOTAS ALÉM DO QUE É PEDIDO !!!
+
+Algumas informações já estão configuradas para a entrada PADRÃO
+----------------------------------------------
+
+[ Digite seu Login abaixo ]
+email: coelhogamer11@hotmail.com
+
+[ Digite seu Password abaixo ]
+senha: diogo2017@
+
+[ Digite Real ou Practice abaixo ] # Real Conta com Dinheiro Real e Practice conta Pratica
+rp: practice
+
+[ Digite a Paridade ] # EURUSD, EURUSD-OTC - Caso queria utilizar o OTC utilize o menos ( -OTC)
+paridade: EURUSD
+
+[ Digite o Valor da Entrada ] # 2, 4.5 - Utilize o Ponto ao invês da Virgula
+valor: 5
+
+[ Digite a Direção da Vela ] # Call ou PUT - Ajuda: |Call = Verde| e |Put = Vermelho|
+direcao: put
+
+[ Digite o TimeFrame da Vela ] # 1, 5, 15 - Ajuda: |São os minutos das Velas|
+timef: 5
+
+[ Digite a quantidade de Gale ] # semgale, gale1, gale2
+gales: gale1
+
+[ Digite a Hora da Entrada ] # 02:55:00, 10:34:58
+tempo: 20:28:10
+
+
+
