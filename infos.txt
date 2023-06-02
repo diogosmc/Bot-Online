@@ -16,7 +16,7 @@ email: coelhogamer11@hotmail.com
 senha: diogo2017@
 
 [ Digite Real ou Practice abaixo ] # Real Conta com Dinheiro Real e Practice conta Pratica
-rp: practice
+rp: real
 
 [ Digite a Paridade ] # EURUSD, EURUSD-OTC - Caso queria utilizar o OTC utilize o menos ( -OTC)
 paridade: EURUSD
