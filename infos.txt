@@ -10,10 +10,10 @@ Algumas informações já estão configuradas para a entrada PADRÃO
 ----------------------------------------------
 
 [ Digite seu Login abaixo ]
-email: coelhogamer11@hotmail.com
+email: seu email
 
 [ Digite seu Password abaixo ]
-senha: diogo2017@
+senha: sua senha
 
 [ Digite Real ou Practice abaixo ] # Real Conta com Dinheiro Real e Practice conta Pratica
 rp: real
@@ -34,7 +34,7 @@ timef: 5
 gales: gale1
 
 [ Digite a Hora da Entrada ] # 02:55:00, 10:34:58
-tempo: 11:54:58
+tempo: 00:00:00
 
 
 
